@@ -32,5 +32,7 @@ Should Not Cases:
 
 
 
-Additional Requirements
-- How to handle Groups? 
+Additional Requirements:
+
+- How to handle Groups, if at all?  could just enter 1 student's name for the whole group, or could have groups table that lists student members, or could have group name as student name...
+
