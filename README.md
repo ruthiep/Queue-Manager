@@ -7,7 +7,7 @@ Description:
 - A table of Students.  Includes student name, class name?
 - A table for the Queue/Questions.  Includes student ID(FK), question, code link, timestamp, urgency level.  Each student may ask many questions, but each question belongs to one student. (how to handle group work below)
 - Answer table? One answer per question or multiple answers?
-- Admin/User?
+- Admin/User?  Or could just have an instructor table...one Instructor to many students, and give them privileges to mark answered. Should List instructor ID with answer.
 - Do you want a static table for urgency descriptions or just use enums, etc?
 - Would it be possible to have multiple urgency descriptions per question?
 
